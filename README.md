@@ -1,2 +1,2 @@
-# CaptureWorksPlugins
-Plugins for CaptureWorks.
+# Capture Works Plugins
+Plugins for Aurora Imaging Capture Works.
