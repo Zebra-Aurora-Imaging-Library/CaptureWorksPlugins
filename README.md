@@ -1,2 +1,2 @@
 # CaptureWorksPlugins
-Repository for CaptureWorks Plugins
+Plugins for CaptureWorks.
